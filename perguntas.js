@@ -1,6 +1,6 @@
 criaCartao(
-    'Programação 2.0'
-    '0 que é JavaScript?'
+    'Programação 2.0',
+    '0 que é JavaScript?',
     '0 JavaScript é uma linguagem de programação'
 )
 
